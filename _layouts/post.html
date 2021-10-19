@@ -1,4 +1,12 @@
----
-layout: default
----
-{{ content }}
+<html>
+  <head>
+    <title>WeirdSearch Engine</title>
+    {%- include           stylesheet.html -%}
+  </head>
+  <body>
+    <center>{%- include            searchbar.html -%}</center>
+    {%- include  recommendedsearches.html -%}
+    {{ content }}
+  </body>
+  {%- include javascript.html -%}
+</html>
