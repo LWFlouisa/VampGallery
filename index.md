@@ -1,4 +1,4 @@
-{%- include           stylesheet.html -%}<br />
-{%- include            searchbar.html -%}<br />
-{%- include  recommendedsearches.html -%}<br />
-{%- include            mainindex.html -%}<br />
+---
+title: Weird Search Engine
+layout: default
+---
