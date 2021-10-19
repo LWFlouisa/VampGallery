@@ -1,4 +1,4 @@
 ---
 title: Main Index
-layout: default
+layout: index
 ---
