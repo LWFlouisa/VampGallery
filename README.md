@@ -1,2 +1,2 @@
-## WeirdSearch
-This is a personal image search index.
+## Vamp Gallery
+A gallery with a Yacy indexing search engine.
