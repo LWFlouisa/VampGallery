@@ -1,5 +1,5 @@
 ---
-title: Main Index
-layout: index
+title: Weird Search Engine
+layout: default
 ---
-## Test Engine
+# Test Search
